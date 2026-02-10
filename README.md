@@ -12,8 +12,7 @@ Write-up of the two challenges I completed on talentarena.ctfd.io. This reposito
 │   ├── README.md          # Full technical breakdown
 │   └── screenshots/       # Blockchain explorer & Pastebin caps
 └── Web-Companion-API/
-    ├── README.md          # Step-by-step exploitation
-    └── tools/             # Ffuf config & JWT script
+    └── README.md          # Step-by-step exploitation
 ```
 ---
 
