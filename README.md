@@ -12,6 +12,7 @@ Write-up of the two challenges I completed on talentarena.ctfd.io. This reposito
 │   ├── README.md          # Full technical breakdown
 │   └── screenshots/       # Blockchain explorer & Pastebin caps
 └── Web-Companion-API/
+    ├── web-challenge.zip  # Everything needed to set up the lab in local
     └── README.md          # Step-by-step exploitation
 ```
 ---
@@ -43,6 +44,8 @@ Flag: MWC{d3v_z3r0_n3v3r_d13s_0n_ch41n}
 
 # 🌐 Challenge 2: MWC Companion
 Category: Web | Difficulty: Hard
+
+Dependencies: Docker and Docker Compose
 
 ## 🛠️ Exploitation Steps
 
